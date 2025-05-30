@@ -1,1 +1,3 @@
-# 0-javascript_is_amazing.js
+# JavaScript Basics
+
+This project contains simple JavaScript scripts for basic learning.
